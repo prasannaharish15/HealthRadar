@@ -1,11 +1,11 @@
-<img width="500" height="600" alt="Screenshot 2026-02-19 082936" src="https://github.com/user-attachments/assets/6c5621da-72f8-4a31-b3ff-c304fba93765" /> <img width="500" height="600" alt="Screenshot 2026-02-19 083119" src="https://github.com/user-attachments/assets/d589b1b4-f2f8-42cc-9159-9804bb532fc2" />
-
+<img width="1919" height="881" alt="Screenshot 2026-02-19 082936" src="https://github.com/user-attachments/assets/6c5621da-72f8-4a31-b3ff-c304fba93765" /> 
+<img width="1919" height="881" alt="Screenshot 2026-02-19 083119" src="https://github.com/user-attachments/assets/d589b1b4-f2f8-42cc-9159-9804bb532fc2" />
 <img width="1919" height="881" alt="image" src="https://github.com/user-attachments/assets/f62913ea-a089-4332-b072-922cf7a126e8" />
-<img width="500" height="600" alt="image" src="https://github.com/user-attachments/assets/ac4f60ff-542b-467e-a515-995fceb67548" />
-<img width="500" height="600" alt="Screenshot 2026-02-19 083145" src="https://github.com/user-attachments/assets/0e5b4afc-a3e7-49b6-957f-03b1e189567d" />
-<img width="1917" height="904" alt="Screenshot 2026-02-19 083208" src="https://github.com/user-attachments/assets/6244f030-4988-4306-920c-61b1dabf4d9c" />
-<img width="500" height="600" alt="image" src="https://github.com/user-attachments/assets/f4a6237d-3e22-4c99-8b1a-cb1c4ec9c1eb" />
-<img width="500" height="600" alt="image" src="https://github.com/user-attachments/assets/daa4bd7e-c8c8-4f14-acfc-77a159ab1df5" />
+<img width="1919" height="881" alt="image" src="https://github.com/user-attachments/assets/ac4f60ff-542b-467e-a515-995fceb67548" />
+<img width="1919" height="881" alt="Screenshot 2026-02-19 083145" src="https://github.com/user-attachments/assets/0e5b4afc-a3e7-49b6-957f-03b1e189567d" />
+<img width="1917" height="881" alt="Screenshot 2026-02-19 083208" src="https://github.com/user-attachments/assets/6244f030-4988-4306-920c-61b1dabf4d9c" />
+<img width="1919" height="881" alt="image" src="https://github.com/user-attachments/assets/f4a6237d-3e22-4c99-8b1a-cb1c4ec9c1eb" />
+<img width="1919" height="881" alt="image" src="https://github.com/user-attachments/assets/daa4bd7e-c8c8-4f14-acfc-77a159ab1df5" />
 
 🩺 Regional Health Trend Dashboard (AI-Driven Outbreak Early Warning System)
 
